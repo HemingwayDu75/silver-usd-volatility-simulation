@@ -23,7 +23,7 @@ Model Assumptions
     
     ε ~ N(0,1), independent standard normal shocks
 
-📊 Parameters
+Parameters
 
   These values can be modified in the script to adapt the simulation:
 
