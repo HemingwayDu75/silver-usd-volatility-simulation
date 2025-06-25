@@ -45,10 +45,8 @@ matplotlib
 
 Install them via pip if needed:
 
-nginx
-Copier
-Modifier
 pip install numpy matplotlib
+
 ▶️ How to Use
 
 Save the script as silver_simulation.py.
