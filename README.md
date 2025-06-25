@@ -50,21 +50,21 @@ Libraries:
 
 How to Use
 
-  Save the script as silver_simulation.py.
-
-  Run it in a Python environment:
-
-  python silver_simulation.py
+    Save the script as silver_simulation.py.
+  
+    Run it in a Python environment:
+  
+    python silver_simulation.py
 
   The script will generate a plot displaying:
 
-  Simulated silver price path over 12 months
-
-  Spot price and forward rate
-
-  Take-profit and stop-loss levels
-
-  Budget price level
+    Simulated silver price path over 12 months
+  
+    Spot price and forward rate
+  
+    Take-profit and stop-loss levels
+  
+    Budget price level
 
 Output
 
